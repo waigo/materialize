@@ -1623,6 +1623,23 @@
 /*** Typography ***/
 /*** Collections ***/
 /* Progress Bar */
+/*** Colors ***/
+/*** Badges ***/
+/*** Buttons ***/
+/*** Cards ***/
+/*** Collapsible ***/
+/*** Dropdown ***/
+/*** Fonts ***/
+/*** Forms ***/
+/*** Global ***/
+/*** Navbar ***/
+/*** SideNav ***/
+/*** Tabs ***/
+/*** Tables ***/
+/*** Toasts ***/
+/*** Typography ***/
+/*** Collections ***/
+/* Progress Bar */
 /*! normalize.css v3.0.2 | MIT License | git.io/normalize */
 /**
  * 1. Set default font family to sans-serif.
@@ -2054,7 +2071,7 @@ img.responsive-img, video.responsive-video {
   .pagination li.active a {
     color: #fff; }
   .pagination li.active {
-    background-color: #ee6e73; }
+    background-color: #ff6f00; }
   .pagination li.disabled a {
     color: #999; }
   .pagination li i {
@@ -2161,7 +2178,7 @@ ul.staggered-list li {
 footer.page-footer {
   margin-top: 20px;
   padding-top: 20px;
-  background-color: #ee6e73; }
+  background-color: #ff6f00; }
   footer.page-footer .footer-copyright {
     overflow: hidden;
     height: 50px;
@@ -4997,7 +5014,7 @@ span.badge {
 
 nav {
   color: #fff;
-  background-color: #ee6e73;
+  background-color: #ff6f00;
   width: 100%;
   height: 56px;
   line-height: 56px; }
@@ -5509,7 +5526,7 @@ small {
     letter-spacing: .8px;
     width: 15%; }
     .tabs .tab a {
-      color: #ee6e73;
+      color: #ff6f00;
       display: block;
       width: 100%;
       height: 100%;
@@ -5519,12 +5536,12 @@ small {
       -ms-transition: color .28s ease;
       transition: color .28s ease; }
       .tabs .tab a:hover {
-        color: #f9c9cb; }
+        color: #ffa966; }
   .tabs .indicator {
     position: absolute;
     bottom: 0;
     height: 2px;
-    background-color: #f6b2b5;
+    background-color: #ff9a4d;
     will-change: left, right; }
 
 .tabs .tab {
@@ -6774,7 +6791,7 @@ select {
       left: auto; } }
 
 .side-nav .collapsible-body li.active, .side-nav.fixed .collapsible-body li.active {
-  background-color: #ee6e73; }
+  background-color: #ff6f00; }
   .side-nav .collapsible-body li.active a, .side-nav.fixed .collapsible-body li.active a {
     color: #fff; }
 
