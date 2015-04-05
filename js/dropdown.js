@@ -154,9 +154,7 @@
         }
         // If origin is clicked and menu is open, close menu
         else {
-          console.log('d')
-          if (open === true) {
-            hideDropdown();
+          
             $(document).unbind('click.' + activates.attr('id'));
             open = false;
           }
