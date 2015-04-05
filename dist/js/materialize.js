@@ -1,3 +1,8 @@
+/*!
+ * Materialize vundefined (http://materializecss.com)
+ * Copyright 2014-2015 Materialize
+ * MIT License (https://raw.githubusercontent.com/Dogfalo/materialize/master/LICENSE)
+ */
 /*
  * jQuery Easing v1.3 - http://gsgd.co.uk/sandbox/jquery/easing/
  *
@@ -520,7 +525,7 @@ if ($) { Vel = $.Velocity } else { Vel = Velocity};
           
             $(document).unbind('click.' + activates.attr('id'));
             open = false;
-          }
+          
         }
         // If menu open, add click close handler to document
         if (open === true) {

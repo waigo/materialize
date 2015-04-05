@@ -157,7 +157,7 @@
           
             $(document).unbind('click.' + activates.attr('id'));
             open = false;
-          }
+          
         }
         // If menu open, add click close handler to document
         if (open === true) {
